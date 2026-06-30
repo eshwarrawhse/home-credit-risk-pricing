@@ -100,7 +100,7 @@ home-credit-risk-pricing/
 
 ```bash
 # 1. Clone and enter the repo
-git clone https://github.com/eshwar-nit/home-credit-risk-pricing.git
+git clone repo
 cd home-credit-risk-pricing
 
 # 2. Create a virtual environment and install dependencies
